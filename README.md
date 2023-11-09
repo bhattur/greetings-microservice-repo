@@ -4,7 +4,7 @@ This repository contains the Greetings micro service. It provides nice greetings
 
 ## Requests
 
-The following HTTP requests are covered:..
+The following HTTP requests are covered:
 
 - GET /greetings/hello - respond with `Hello World!` greeting
 
